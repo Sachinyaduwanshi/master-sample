@@ -1,0 +1,3 @@
+[
+    {"name": "showall_report", "label": "Show All", "routeLink": "ReportListComponent"}
+]

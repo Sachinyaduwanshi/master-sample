@@ -1,0 +1,33 @@
+{
+    "employees": [
+        {
+            "id": 1,
+            "firstName": "Ram",
+            "lastName": "Prasad",
+            "address": {
+                    "street": "Cr. de Seville",
+                    "city": "Montreal",
+                    "state": "QC",
+                    "zip": "J4X1J4"
+                },
+            "aliases": [
+                { "alias": "RP" }
+            ]
+        },
+        {
+            "id": 1,
+            "firstName": "John",
+            "lastName": "Smith",
+            "address": {
+                    "street": "Pavonia Ave",
+                    "city": "Newport",
+                    "state": "NY",
+                    "zip": "07302"
+                },
+            "aliases": [
+                { "alias": "JS" },
+                { "alias": "J" }
+            ]
+        }
+    ]
+}

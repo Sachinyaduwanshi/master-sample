@@ -1,0 +1,6 @@
+[
+    {"name": "showall_emp", "label": "Show All", "routeLink": "/employees"},
+    {"name": "add_emp", "label": "Add New", "routeLink": "/employees/create"},
+    {"name": "edit_emp", "label": "Edit Existing", "routeLink": "/employees/edit/:id"},
+    {"name": "del_emp", "label": "Delete", "routeLink": "EmployeeDeleteComponent"}
+]
